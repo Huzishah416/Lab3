@@ -13,3 +13,8 @@ if __name__ == "__main__":
     f = "my_name.txt"
     n = input("Please enter your name: ")    
     write_name_to_file(f, n)
+
+def helloWorld():
+    print('Hello World')
+
+helloWorld()
